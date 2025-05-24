@@ -1,0 +1,19 @@
+.corML{
+    background-color: #ffe600 !important;
+}
+
+.corBody{
+    background-color: #ebebeb;
+}
+
+.logoPropaganda{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.separator {
+    width: 1px;
+    height: 20px;
+    background-color: #000000; /* cor da barrinha */
+    margin: 0 8px;
+}
